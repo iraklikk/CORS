@@ -1,11 +1,11 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "CORS",
     "version": "1.1",
     "content_scripts": [
         {
             "matches": [
-                "https://dev.crocobet.com:3000/"
+                "<all_urls>"
             ],
             "js": [
                 "content.js"
@@ -13,4 +13,3 @@
         }
     ]
 }
-

@@ -1,3 +1,4 @@
 
-const header = document.querySelector(".app-header");
-window.location.href = 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Irakli_Kobakhidze_Cropped.jpg/1200px-Irakli_Kobakhidze_Cropped.jpg';
+// const header = document.querySelector(".app-header");
+window.location.href = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLNFZI8-ICtT9AWtu3ky1b9E5rf0jUanlEQ&usqp=CAU';
+console.log('here');
